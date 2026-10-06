@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pixelashutosh1&label=SYSTEM+VISITS&color=00ff41&style=for-the-badge&labelColor=000000" />
+  <img src="https://komarev.com/ghpvc/?username=mishraashutosh60489-crypto&label=SYSTEM+VISITS&color=00ff41&style=for-the-badge&labelColor=000000" />
 </p>
 
 ---
@@ -64,17 +64,27 @@
 ## 📡 `root@ashutosh:~# ./live_stats.sh`
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=pixelashutosh1&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pixelashutosh1&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mishraashutosh60489-crypto&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishraashutosh60489-crypto&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=pixelashutosh1&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=00ff41&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" />
+  <img src="https://streak-stats.demolab.com?user=mishraashutosh60489-crypto&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=00ff41&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" />
+</p>
+
+<!-- Live activity graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mishraashutosh60489-crypto&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&area_color=00ff41&hide_border=true" width="100%" />
+</p>
+
+<!-- Trophies -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mishraashutosh60489-crypto&theme=matrix&no-frame=true&no-bg=true&row=1&column=6" />
 </p>
 
 <!-- Snake animation: needs the snake.yml GitHub Action from earlier -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pixelashutosh1/pixelashutosh1/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/mishraashutosh60489-crypto/mishraashutosh60489-crypto/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
@@ -85,6 +95,7 @@
   <a href="https://pixelashutosh1.netlify.app/"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=netlify&logoColor=00ff41" /></a>
   <a href="mailto:mishraashutosh60489@gmail.com"><img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=00ff41" /></a>
   <a href="https://www.instagram.com/pixel._ashutosh"><img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=00ff41" /></a>
+  <a href="https://github.com/mishraashutosh60489-crypto"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=00ff41" /></a>
   <a href="https://x.com/Itz_Ashutosh504"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=00ff41" /></a>
 </p>
 
