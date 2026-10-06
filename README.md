@@ -8,6 +8,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00FF41&background=00000000&center=true&vCenter=true&width=650&lines=%3E+Initializing+profile...;%3E+Software+Developer;%3E+Learning+Cybersecurity+%F0%9F%94%90;%3E+Java+%7C+C+%7C+Python;%3E+Access+Granted+%E2%9C%85" alt="Typing SVG" />
 </p>
 
+<!-- Live cyber page button -->
+<p align="center">
+  <a href="https://incandescent-gecko-14cbb6.netlify.app/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2000&pause=500&color=000000&background=00FF41&center=true&vCenter=true&width=420&height=45&lines=%F0%9F%9A%80+OPEN+LIVE+CYBER+PAGE;%3E+CLICK+TO+ENTER+THE+MATRIX" alt="Open Live Cyber Page" />
+  </a>
+</p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mishraashutosh60489-crypto&label=SYSTEM+VISITS&color=00ff41&style=for-the-badge&labelColor=000000" />
 </p>
@@ -92,6 +99,7 @@
 ## 📬 `root@ashutosh:~# ./contact.sh`
 
 <p align="center">
+  <a href="https://incandescent-gecko-14cbb6.netlify.app/"><img src="https://img.shields.io/badge/LIVE%20CYBER%20PAGE-000000?style=for-the-badge&logo=gnometerminal&logoColor=00ff41" /></a>
   <a href="https://pixelashutosh1.netlify.app/"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=netlify&logoColor=00ff41" /></a>
   <a href="mailto:mishraashutosh60489@gmail.com"><img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=00ff41" /></a>
   <a href="https://www.instagram.com/pixel._ashutosh"><img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=00ff41" /></a>
