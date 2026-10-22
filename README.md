@@ -28,7 +28,7 @@
 └─$ cat profile.txt
 
  NAME        : Ashutosh Mishra
- ROLE        : Software Developer
+ ROLE        : Software Tester
  FOCUS       : Cybersecurity (Learning)
  LANGUAGES   : Java, C, Python
  TOOLS       : MS Office
