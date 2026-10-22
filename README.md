@@ -1,6 +1,6 @@
 <!-- ========== MATRIX HEADER ========== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:003b00,100:00ff41&height=220&section=header&text=ASHUTOSH%20MISHRA&fontSize=48&fontColor=00ff41&animation=twinkling&fontAlignY=38&desc=%5B%20Software%20Developer%20%7C%20Cybersecurity%20Learner%20%5D&descAlignY=60&descSize=18&descColor=00ff41" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:003b00,100:00ff41&height=220&section=header&text=ASHUTOSH%20MISHRA&fontSize=48&fontColor=00ff41&animation=twinkling&fontAlignY=38&desc=%5B%20Software%20Tester%20%7C%20Cybersecurity%20Learner%20%5D&descAlignY=60&descSize=18&descColor=00ff41" width="100%" />
 </p>
 
 <!-- ========== TYPING ANIMATION ========== -->
