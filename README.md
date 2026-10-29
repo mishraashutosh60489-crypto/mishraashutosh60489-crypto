@@ -1,61 +1,119 @@
-<div align="center">
-  
-  <!-- Animated Typing / Header Title -->
-  <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi+There!+👋+I'm+Ashutosh+Mishra;Software+Tester+🧪;Cyber+Security+Learner+🛡️;Automation+%26+Bash+Scripter+💻" alt="Typing SVG" />
-  </h1>
+<!-- ========== MATRIX HEADER ========== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:003b00,100:00ff41&height=220&section=header&text=ASHUTOSH%20MISHRA&fontSize=48&fontColor=00ff41&animation=twinkling&fontAlignY=38&desc=%5B%20Software%20Developer%20%7C%20Cybersecurity%20Learner%20%5D&descAlignY=60&descSize=18&descColor=00ff41" width="100%" />
+</p>
 
-  <!-- Liquid Blue Toggle Glow Badge -->
-  <p align="center">
-    <a href="https://github.com/mishraashutosh60489-crypto">
-      <img src="https://img.shields.io/badge/STATUS-READY_TO_TEST_%26_SECURE-3b82f6?style=for-the-badge&logo=codeforces&logoColor=white&color=3b82f6" alt="Status" />
-    </a>
-  </p>
+<!-- ========== TYPING ANIMATION ========== -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00FF41&background=00000000&center=true&vCenter=true&width=650&lines=%3E+Initializing+profile...;%3E+Software+Developer;%3E+Learning+Cybersecurity+%F0%9F%94%90;%3E+Java+%7C+C+%7C+Python;%3E+Access+Granted+%E2%9C%85" alt="Typing SVG" />
+</p>
 
-</div>
+<!-- Live cyber page button -->
+<p align="center">
+  <a href="https://incandescent-gecko-14cbb6.netlify.app/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2000&pause=500&color=000000&background=00FF41&center=true&vCenter=true&width=420&height=45&lines=%F0%9F%9A%80+OPEN+LIVE+CYBER+PAGE;%3E+CLICK+TO+ENTER+THE+MATRIX" alt="Open Live Cyber Page" />
+  </a>
+</p>
 
----
-
-### 🚀 About Me
-<div align="center">
-  <p align="center">
-    A passionate <b>Software Tester</b> and <b>Cyber Security Learner</b> currently honing skills in Quality Assurance, Systems Programming, and Defensive Security. Experienced in writing robust test cases, manual testing workflows, and scripting lightweight automation using Bash and Python.
-  </p>
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mishraashutosh60489-crypto&label=SYSTEM+VISITS&color=00ff41&style=for-the-badge&labelColor=000000" />
+</p>
 
 ---
 
-### 💫 Core Skills & Tech Stack
-<div align="center">
+## 💀 `root@ashutosh:~# whoami`
 
-  <!-- Rotating / Floating Tech Badges with Jump Animation -->
-  <a href="#"><img src="https://img.shields.io/badge/Manual_Testing-3B82F6?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Manual Testing" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /></a>
-  <br/>
-  <a href="#"><img src="https://img.shields.io/badge/C_Programming-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/MS_Office-EA4335?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="MS Office" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Quality_Assurance-00599C?style=for-the-badge&logo=databricks&logoColor=white" alt="QA" /></a>
+```bash
+┌──(ashutosh㉿kali)-[~]
+└─$ cat profile.txt
 
-</div>
-
----
-
-### 📊 GitHub Stats & Metrics
-<div align="center">
-  <p>
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=mishraashutosh60489-crypto&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=3b82f6&icon_color=3b82f6" alt="Ashutosh's Stats" />
-    <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=mishraashutosh60489-crypto&theme=tokyonight&hide_border=true&background=0d1117&stroke=3b82f6&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6" alt="Streak Stats" />
-  </p>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishraashutosh60489-crypto&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b82f6" alt="Top Languages" />
-  </p>
-</div>
+ NAME        : Ashutosh Mishra
+ ROLE        : Software Developer
+ FOCUS       : Cybersecurity (Learning)
+ LANGUAGES   : Java, C, Python
+ TOOLS       : MS Office, Manual Testing
+ STATUS      : Online 🟢
+ MISSION     : Build. Break. Secure. Repeat.
+```
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,10,20,30&height=100&section=footer&text=Keep%20Testing,%20Keep%20Securing!&fontSize=16&fontColor=3b82f6" width="100%" />
-</div>
+## ⚙️ `root@ashutosh:~# ls skills/`
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,c,py,html,css,js,react,git,github,linux,bash&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=00ff41" />
+  <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=00ff41" />
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00ff41" />
+  <img src="https://img.shields.io/badge/MS%20Office-000000?style=for-the-badge&logo=microsoftoffice&logoColor=00ff41" />
+  <img src="https://img.shields.io/badge/Cybersecurity-Learning-000000?style=for-the-badge&logo=hackthebox&logoColor=00ff41" />
+</p>
+
+---
+
+## 🔐 `root@ashutosh:~# ./learning_path.sh`
+
+```text
+[■■■■■■■■■■■■■■□□□□□□] Java .............. 70%
+[■■■■■■■■■■■■□□□□□□□□] C ................. 60%
+[■■■■■■■■■■■■■■□□□□□□] Python ............ 70%
+[■■■■■■■■□□□□□□□□□□□□] Cybersecurity ..... 40%  <-- in progress
+[■■■■■■■■■■■■■■■■□□□□] MS Office ......... 80%
+```
+
+> Edit the bars above to match your real level.
+
+---
+
+## 📡 `root@ashutosh:~# ./live_stats.sh`
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mishraashutosh60489-crypto&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishraashutosh60489-crypto&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mishraashutosh60489-crypto&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=00ff41&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" />
+</p>
+
+<!-- Live activity graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mishraashutosh60489-crypto&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&area_color=00ff41&hide_border=true" width="100%" />
+</p>
+
+<!-- Trophies -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mishraashutosh60489-crypto&theme=matrix&no-frame=true&no-bg=true&row=1&column=6" />
+</p>
+
+<!-- Snake animation: needs the snake.yml GitHub Action from earlier -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mishraashutosh60489-crypto/mishraashutosh60489-crypto/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+## 📬 `root@ashutosh:~# ./contact.sh`
+
+<p align="center">
+  <a href="https://incandescent-gecko-14cbb6.netlify.app/"><img src="https://img.shields.io/badge/LIVE%20CYBER%20PAGE-000000?style=for-the-badge&logo=gnometerminal&logoColor=00ff41" /></a>
+  <a href="https://pixelashutosh1.netlify.app/"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=netlify&logoColor=00ff41" /></a>
+  <a href="mailto:mishraashutosh60489@gmail.com"><img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=00ff41" /></a>
+  <a href="https://www.instagram.com/pixel._ashutosh"><img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=00ff41" /></a>
+  <a href="https://github.com/mishraashutosh60489-crypto"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=00ff41" /></a>
+  <a href="https://x.com/Itz_Ashutosh504"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=00ff41" /></a>
+</p>
+
+```bash
+┌──(ashutosh㉿kali)-[~]
+└─$ echo "Stay curious. Stay ethical. Stay secure." 🛡️
+Stay curious. Stay ethical. Stay secure.
+```
+
+<!-- ========== FOOTER ========== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003b00,100:00ff41&height=120&section=footer" width="100%" />
+</p>
