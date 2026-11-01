@@ -1,17 +1,17 @@
 <!-- ========== MATRIX HEADER ========== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:003b00,100:00ff41&height=220&section=header&text=ASHUTOSH%20MISHRA&fontSize=48&fontColor=00ff41&animation=twinkling&fontAlignY=38&desc=%5B%20Software%20Developer%20%7C%20Cybersecurity%20Learner%20%5D&descAlignY=60&descSize=18&descColor=00ff41" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:003b00,100:00ff41&height=220&section=header&text=ASHUTOSH%20MISHRA&fontSize=48&fontColor=00ff41&animation=twinkling&fontAlignY=38&desc=%5B%20Software%20Tester%20%7C%20Cybersecurity%20Learner%20%5D&descAlignY=60&descSize=18&descColor=00ff41" width="100%" />
 </p>
 
 <!-- ========== TYPING ANIMATION ========== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00FF41&background=00000000&center=true&vCenter=true&width=650&lines=%3E+Initializing+profile...;%3E+Software+Developer;%3E+Learning+Cybersecurity+%F0%9F%94%90;%3E+Java+%7C+C+%7C+Python;%3E+Access+Granted+%E2%9C%85" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00FF41&background=00000000&center=true&vCenter=true&width=650&lines=%3E+Initializing+profile...;%3E+Software+Tester;%3E+Learning+Cybersecurity+%F0%9F%94%90;%3E+Java+%7C+C+%7C+Python;%3E+Access+Granted+%E2%9C%85" alt="Typing SVG" />
 </p>
 
 <!-- Live cyber page button -->
 <p align="center">
   <a href="https://incandescent-gecko-14cbb6.netlify.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2000&pause=500&color=000000&background=00FF41&center=true&vCenter=true&width=420&height=45&lines=%F0%9F%9A%80+OPEN+LIVE+CYBER+PAGE;%3E+CLICK+TO+ENTER+THE+MATRIX" alt="Open Live Cyber Page" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2000&pause=500&color=000000&background=00FF41&center=true&vCenter=true&width=420&height=45&lines=%F0%9F%9A%80+OPEN+LIVE+CYBER+PAGE;%3E+CLICK+TO+ENTER+MY+PORTFOLIO" alt="Open Live Portfolio Page" />
   </a>
 </p>
 
@@ -28,10 +28,10 @@
 └─$ cat profile.txt
 
  NAME        : Ashutosh Mishra
- ROLE        : Software Developer
+ ROLE        : Software Tester
  FOCUS       : Cybersecurity (Learning)
  LANGUAGES   : Java, C, Python
- TOOLS       : MS Office, Manual Testing
+ TOOLS       : MS Office, Manual Testing, SDLC, STLC
  STATUS      : Online 🟢
  MISSION     : Build. Break. Secure. Repeat.
 ```
@@ -61,7 +61,8 @@
 [■■■■■■■■■■■■□□□□□□□□] C ................. 60%
 [■■■■■■■■■■■■■■□□□□□□] Python ............ 70%
 [■■■■■■■■□□□□□□□□□□□□] Cybersecurity ..... 40%  <-- in progress
-[■■■■■■■■■■■■■■■■□□□□] MS Office ......... 80%
+[■■■■■■■■■■■■■■■■□□□□] MS Office ......... 85%
+[■■■■■■■■■■■■■■■■■■■■] Sofware Testing ......... 100%
 ```
 
 > Edit the bars above to match your real level.
